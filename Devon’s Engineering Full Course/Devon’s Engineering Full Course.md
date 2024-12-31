@@ -49,8 +49,8 @@ Although, the software quality was improved.  We still had a lack of efficiency 
 ```markdown
 |           Developer          |      |         Operations        |
 |------------------------------|      |---------------------------|
-|But, the code runs fine on the| <--  |The operations team then   |
-|developer's system and hence  |      |mark's this code as faulty,|
+|But, the code runs fine on the|      |The operations team then   |
+|developer's system and hence  | <--  |mark's this code as faulty,|
 |they say "it is not my fault!"|      |and then forward's  this   |
 |                              |      |feedback to back to the    |
 |                              |      |developer                  |
