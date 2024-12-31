@@ -1,5 +1,5 @@
 # Devon’s Engineering Full Course
-**--Intellipaat--**
+**by Intellipaat**
 ## Agenda
 
 >> What is DevOps?
